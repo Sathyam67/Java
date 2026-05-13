@@ -33,5 +33,6 @@ return (a+b) ;
   static void main(String[] args) {
     Practizzz p=new Practizzz();
         System.out.println("New "+p.getup(10,20));
-    }
+      System.out.println("Welcome");
+}
 }
